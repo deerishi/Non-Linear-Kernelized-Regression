@@ -1,0 +1,6 @@
+{
+  "name": "Non-linear-kernelized-regression",
+  "tagline": "",
+  "body": "This code implements Non Linear Kernelized Regression using a Gaussian Kernel on a dataset. The plot below shows the dataset shape.\r\n\r\n![](https://github.com/deerishi/Non-Linear-Kernelized-Regression/blob/master/regression.png?raw=True)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
